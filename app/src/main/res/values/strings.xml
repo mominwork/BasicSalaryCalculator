@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabTest1SetB</string>
+    <string name="basic_salary">Basic Salary :</string>
+    <string name="put_amount">put amount</string>
+    <string name="medical">Medical :</string>
+    <string name="put_percentage">put percentage</string>
+    <string name="house_rent">House Rent :</string>
+    <string name="calculate">calculate</string>
+    <string name="total_salary">Total Salary :</string>
+    <string name="show_amount">show amount</string>
+</resources>
