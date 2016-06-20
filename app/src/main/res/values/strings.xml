@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LabTest1SetB</string>
+    <string name="app_name">BasicSalaryCalculator</string>
     <string name="basic_salary">Basic Salary :</string>
     <string name="put_amount">put amount</string>
     <string name="medical">Medical :</string>
